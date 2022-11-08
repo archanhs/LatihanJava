@@ -3,6 +3,11 @@
   <groupId>com.bcafinance</groupId>
   <artifactId>javafundamental1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>javafundamental1</name>
+  <name>itdp7_Archan</name>
   <description>belajarfundamental1</description>
+  <properties>
+	        <maven.compiler.source>17</maven.compiler.source>
+	        <maven.compiler.target>17</maven.compiler.target>
+  </properties>
+ 
 </project>
